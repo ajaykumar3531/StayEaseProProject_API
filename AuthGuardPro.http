@@ -1,0 +1,6 @@
+@AuthGuardPro_HostAddress = http://localhost:5056
+
+GET {{AuthGuardPro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
